@@ -1,0 +1,87 @@
+* {
+    border-collapse: separate;
+}
+
+.main {
+    position: absolute;
+    top: 130px;
+    right: 15%;
+    width: 600px;
+    background-color: rgb(96, 252, 239);
+    border-radius: 15px;
+    align-items: center;
+    height: 72vh;
+    border: 1.5px solid blue;
+
+}
+
+.menu-bar .table {
+    margin-left: -150px;
+
+}
+
+h1 {
+    font-family: Times New Roman;
+    margin: 20px, 0;
+    color: rgb(18, 17, 17);
+    font-size: 30px;
+    font-weight: lighter;
+    animation-delay: 3.5s;
+    font-style: italic;
+}
+
+input[type=submit] {
+    background-color: rgb(127, 216, 131);
+    border: 1px solid black;
+    color: rgb(23, 22, 22);
+    padding: 10px 16px;
+    cursor: pointer;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+input {
+    padding: 20px, 0;
+    margin: 20px, 0;
+}
+
+input:hover {
+    color: rgb(127, 216, 131);
+    background-color: rgb(23, 22, 22);
+    ;
+}
+
+p {
+    color: #ffffff;
+}
+
+.row em {
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.main .bold {
+    font-style: italic;
+}
+
+.wrapper .predict {
+    font-weight: bold;
+
+}
+
+.logo .title {
+    font-size: 20px;
+    margin-left: 20%;
+
+}
+
+.gfg {
+    color: blue;
+    font-weight: bold;
+}
+
+.bold {
+    font-size: 17px;
+    font-weight: bold;
+}
